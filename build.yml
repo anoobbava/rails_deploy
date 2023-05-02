@@ -19,7 +19,7 @@
       3637376537326133393139326439663131386661626161336434
     key_base: 6b9aab512927ff24a996da1ed66e7bc06d2a1da21479bc60f14a0942677b73d81430009507d2be4230869cf1b4bb79988cde02397442b326def5491a8c2529b8
     node_version: 14.17.0
-    server_name: 3.145.54.253
+    server_name: 18.117.98.112
   tasks:
     - name: Install RVM dependencies and other packages
       apt:
